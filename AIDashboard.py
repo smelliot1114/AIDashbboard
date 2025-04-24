@@ -46,7 +46,7 @@ app.layout = html.Div([
         children=[
             html.A(
                 html.Img(
-                    src="/assets/titlebar2.png",
+                    src="/assets/titlebar3.png",
                     style={"width": "100%", "maxWidth": "1000px", "display": "block", "margin": "0 auto"}
                 ),
                 href="https://ai-for-business.sites.utk.edu/",
