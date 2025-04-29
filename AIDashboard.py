@@ -42,19 +42,6 @@ app = dash.Dash(
 )
 
 app.layout = html.Div([
-    html.Div(
-        children=[
-            html.A(
-                html.Img(
-                    src="/assets/titlebar4.png",
-                    style={"width": "100%", "maxWidth": "1000px", "display": "block", "margin": "0 auto"}
-                ),
-                href="https://ai-for-business.sites.utk.edu/",
-                target="_blank"
-            )
-        ],
-        style={"marginBottom": "20px"}
-    ),
 
     dcc.Tabs(
         id="tabs",
