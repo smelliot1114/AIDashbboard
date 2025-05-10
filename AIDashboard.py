@@ -196,7 +196,7 @@ app.layout = dbc.Container([
                 dbc.CardBody([
                     dcc.Graph(id='density-map-plot')
                 ])
-            ], className="mt-0")
+            ], className="mt-0 mb-4 card-no-hover")
         ]),
         
         dcc.Tab(label='Career Area Comparison', value='tab2', children=[
@@ -221,7 +221,7 @@ app.layout = dbc.Container([
                                 clearable=False
                             ),
                         ])
-                    ], className="mt-0")
+                    ], className="mt-4 mb-4")
                 ], width=3),
                 dbc.Col([
                     dbc.Card([
@@ -231,7 +231,7 @@ app.layout = dbc.Container([
                         dbc.CardBody([
                             dcc.Graph(id="career_comparison_chart")
                         ])
-                    ], className="mt-0")
+                    ], className="mt-4 mb-4")
                 ], width=9)
             ])
         ]),
@@ -259,7 +259,7 @@ app.layout = dbc.Container([
                                 clearable=False
                             ),
                         ])
-                    ], className="mt-0")
+                    ], className="mt-4 mb-4")
                 ], width=3),
                 dbc.Col([
                     dbc.Card([
@@ -269,7 +269,7 @@ app.layout = dbc.Container([
                         dbc.CardBody([
                             dcc.Graph(id="skills_comparison_chart")
                         ])
-                    ], className="mt-0")
+                    ], className="mt-4 mb-4")
                 ], width=9)
             ])
         ])
@@ -365,4 +365,4 @@ def update_skills_chart(state1, state2):
 server = app.server
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
