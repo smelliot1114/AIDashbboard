@@ -1,0 +1,1351 @@
+state_name,lot_career_area_name,all_jobs,ai_jobs,intensity
+Alabama,Social Analysis and Planning,6,1,0.16666666666666666
+Alabama,Information Technology and Computer Science,355,35,0.09859154929577464
+Alabama,Science and Research,34,3,0.08823529411764706
+Alabama,Engineering,163,5,0.03067484662576687
+Alabama,Unclassified Career Area,91,2,0.02197802197802198
+Alabama,Education and Training,97,2,0.020618556701030927
+Alabama,Business Management and Operations,359,6,0.016713091922005572
+Alabama,"Law, Compliance, and Public Safety",91,1,0.01098901098901099
+Alabama,Human Resources,101,1,0.009900990099009901
+Alabama,Community and Social Services,117,1,0.008547008547008548
+Alabama,Finance,271,2,0.007380073800738007
+Alabama,Manufacturing and Production,184,1,0.005434782608695652
+Alabama,"Maintenance, Repair, and Installation",237,1,0.004219409282700422
+Alabama,Transportation,303,1,0.0033003300330033004
+Alabama,Healthcare,846,2,0.002364066193853428
+Alabama,Sales,684,1,0.0014619883040935672
+Alabama,"Agriculture, Horticulture, & the Outdoors",43,0,0
+Alabama,Clerical and Administrative,158,0,0
+Alabama,"Construction, Extraction, and Architecture",106,0,0
+Alabama,Customer and Client Support,147,0,0
+Alabama,"Design, Media, and Writing",36,0,0
+Alabama,"Hospitality, Food, and Tourism",441,0,0
+Alabama,Marketing and Public Relations,40,0,0
+Alabama,Not Employed,3,0,0
+Alabama,Performing Arts,2,0,0
+Alabama,Personal Services,49,0,0
+Alabama,NA,9,0,0
+Alaska,Information Technology and Computer Science,64,6,0.09375
+Alaska,Manufacturing and Production,22,1,0.045454545454545456
+Alaska,Business Management and Operations,101,2,0.019801980198019802
+Alaska,Healthcare,303,1,0.0033003300330033004
+Alaska,"Agriculture, Horticulture, & the Outdoors",10,0,0
+Alaska,Clerical and Administrative,67,0,0
+Alaska,Community and Social Services,38,0,0
+Alaska,"Construction, Extraction, and Architecture",39,0,0
+Alaska,Customer and Client Support,28,0,0
+Alaska,"Design, Media, and Writing",14,0,0
+Alaska,Education and Training,44,0,0
+Alaska,Engineering,41,0,0
+Alaska,Finance,75,0,0
+Alaska,"Hospitality, Food, and Tourism",98,0,0
+Alaska,Human Resources,24,0,0
+Alaska,"Law, Compliance, and Public Safety",42,0,0
+Alaska,"Maintenance, Repair, and Installation",39,0,0
+Alaska,Marketing and Public Relations,10,0,0
+Alaska,Performing Arts,1,0,0
+Alaska,Personal Services,7,0,0
+Alaska,Sales,107,0,0
+Alaska,Science and Research,20,0,0
+Alaska,Social Analysis and Planning,5,0,0
+Alaska,Transportation,37,0,0
+Alaska,Unclassified Career Area,39,0,0
+Arizona,Information Technology and Computer Science,875,115,0.13142857142857142
+Arizona,Marketing and Public Relations,139,8,0.05755395683453238
+Arizona,Engineering,282,13,0.04609929078014184
+Arizona,Science and Research,74,3,0.04054054054054054
+Arizona,Unclassified Career Area,199,5,0.02512562814070352
+Arizona,Business Management and Operations,845,15,0.01775147928994083
+Arizona,"Design, Media, and Writing",119,2,0.01680672268907563
+Arizona,Sales,1166,10,0.008576329331046312
+Arizona,Finance,691,4,0.005788712011577424
+Arizona,Education and Training,365,2,0.005479452054794521
+Arizona,Clerical and Administrative,432,2,0.004629629629629629
+Arizona,"Law, Compliance, and Public Safety",232,1,0.004310344827586207
+Arizona,Community and Social Services,293,1,0.0034129692832764505
+Arizona,Healthcare,1720,5,0.0029069767441860465
+Arizona,"Maintenance, Repair, and Installation",374,1,0.00267379679144385
+Arizona,Customer and Client Support,393,1,0.002544529262086514
+Arizona,"Agriculture, Horticulture, & the Outdoors",65,0,0
+Arizona,"Construction, Extraction, and Architecture",199,0,0
+Arizona,"Hospitality, Food, and Tourism",869,0,0
+Arizona,Human Resources,264,0,0
+Arizona,Manufacturing and Production,263,0,0
+Arizona,Not Employed,2,0,0
+Arizona,Performing Arts,8,0,0
+Arizona,Personal Services,103,0,0
+Arizona,Social Analysis and Planning,17,0,0
+Arizona,Transportation,327,0,0
+Arizona,NA,9,0,0
+Arkansas,Information Technology and Computer Science,150,13,0.08666666666666667
+Arkansas,Engineering,47,3,0.06382978723404255
+Arkansas,Science and Research,25,1,0.04
+Arkansas,Marketing and Public Relations,33,1,0.030303030303030304
+Arkansas,Education and Training,87,2,0.022988505747126436
+Arkansas,Unclassified Career Area,52,1,0.019230769230769232
+Arkansas,Business Management and Operations,202,3,0.01485148514851485
+Arkansas,Finance,294,4,0.013605442176870748
+Arkansas,Customer and Client Support,81,1,0.012345679012345678
+Arkansas,Clerical and Administrative,113,1,0.008849557522123894
+Arkansas,Healthcare,495,1,0.00202020202020202
+Arkansas,"Agriculture, Horticulture, & the Outdoors",16,0,0
+Arkansas,Community and Social Services,85,0,0
+Arkansas,"Construction, Extraction, and Architecture",44,0,0
+Arkansas,"Design, Media, and Writing",17,0,0
+Arkansas,"Hospitality, Food, and Tourism",178,0,0
+Arkansas,Human Resources,63,0,0
+Arkansas,"Law, Compliance, and Public Safety",50,0,0
+Arkansas,"Maintenance, Repair, and Installation",103,0,0
+Arkansas,Manufacturing and Production,81,0,0
+Arkansas,Performing Arts,2,0,0
+Arkansas,Personal Services,13,0,0
+Arkansas,Sales,323,0,0
+Arkansas,Social Analysis and Planning,6,0,0
+Arkansas,Transportation,178,0,0
+Arkansas,NA,3,0,0
+California,Information Technology and Computer Science,5921,894,0.1509880087823003
+California,Social Analysis and Planning,82,9,0.10975609756097561
+California,Not Employed,12,1,0.08333333333333333
+California,Marketing and Public Relations,1419,76,0.053558844256518676
+California,Science and Research,653,30,0.045941807044410414
+California,Engineering,1661,55,0.033112582781456956
+California,Unclassified Career Area,920,23,0.025
+California,Business Management and Operations,4492,99,0.022039180765805876
+California,"Design, Media, and Writing",823,16,0.019441069258809233
+California,Performing Arts,52,1,0.019230769230769232
+California,Finance,3365,47,0.013967310549777118
+California,Manufacturing and Production,1369,18,0.013148283418553688
+California,Human Resources,1258,13,0.010333863275039745
+California,"Maintenance, Repair, and Installation",1419,11,0.007751937984496124
+California,Sales,5546,39,0.007032095203750451
+California,Customer and Client Support,1326,9,0.006787330316742082
+California,Clerical and Administrative,2378,16,0.00672834314550042
+California,Education and Training,1674,9,0.005376344086021506
+California,"Agriculture, Horticulture, & the Outdoors",207,1,0.004830917874396135
+California,"Law, Compliance, and Public Safety",1270,6,0.004724409448818898
+California,Healthcare,6886,27,0.003920999128666861
+California,Community and Social Services,1294,4,0.0030911901081916537
+California,"Hospitality, Food, and Tourism",3452,8,0.002317497103128621
+California,Personal Services,472,1,0.00211864406779661
+California,Transportation,1308,2,0.0015290519877675841
+California,"Construction, Extraction, and Architecture",806,1,0.0012406947890818859
+California,NA,70,0,0
+Colorado,Social Analysis and Planning,21,3,0.14285714285714285
+Colorado,Information Technology and Computer Science,1182,129,0.10913705583756345
+Colorado,Science and Research,111,7,0.06306306306306306
+Colorado,Engineering,339,10,0.029498525073746312
+Colorado,Marketing and Public Relations,219,6,0.0273972602739726
+Colorado,"Design, Media, and Writing",103,2,0.019417475728155338
+Colorado,Unclassified Career Area,237,4,0.016877637130801686
+Colorado,Business Management and Operations,883,14,0.015855039637599093
+Colorado,Customer and Client Support,317,5,0.015772870662460567
+Colorado,Personal Services,101,1,0.009900990099009901
+Colorado,Finance,631,6,0.009508716323296355
+Colorado,Human Resources,229,2,0.008733624454148471
+Colorado,Clerical and Administrative,467,4,0.008565310492505354
+Colorado,"Construction, Extraction, and Architecture",267,2,0.00749063670411985
+Colorado,Sales,1185,6,0.005063291139240506
+Colorado,"Law, Compliance, and Public Safety",260,1,0.0038461538461538464
+Colorado,Education and Training,388,1,0.002577319587628866
+Colorado,Healthcare,1566,4,0.002554278416347382
+Colorado,"Hospitality, Food, and Tourism",899,1,0.0011123470522803114
+Colorado,"Agriculture, Horticulture, & the Outdoors",79,0,0
+Colorado,Community and Social Services,300,0,0
+Colorado,"Maintenance, Repair, and Installation",414,0,0
+Colorado,Manufacturing and Production,276,0,0
+Colorado,Not Employed,4,0,0
+Colorado,Performing Arts,7,0,0
+Colorado,Transportation,353,0,0
+Colorado,NA,14,0,0
+Connecticut,Information Technology and Computer Science,538,77,0.14312267657992564
+Connecticut,Social Analysis and Planning,7,1,0.14285714285714285
+Connecticut,Science and Research,50,2,0.04
+Connecticut,Marketing and Public Relations,103,3,0.02912621359223301
+Connecticut,Business Management and Operations,415,8,0.01927710843373494
+Connecticut,Engineering,174,3,0.017241379310344827
+Connecticut,"Design, Media, and Writing",59,1,0.01694915254237288
+Connecticut,Finance,331,5,0.015105740181268883
+Connecticut,Manufacturing and Production,158,2,0.012658227848101266
+Connecticut,"Construction, Extraction, and Architecture",82,1,0.012195121951219513
+Connecticut,"Law, Compliance, and Public Safety",92,1,0.010869565217391304
+Connecticut,Unclassified Career Area,111,1,0.009009009009009009
+Connecticut,Customer and Client Support,123,1,0.008130081300813009
+Connecticut,Sales,588,2,0.003401360544217687
+Connecticut,"Hospitality, Food, and Tourism",315,1,0.0031746031746031746
+Connecticut,Healthcare,894,2,0.0022371364653243847
+Connecticut,"Agriculture, Horticulture, & the Outdoors",24,0,0
+Connecticut,Clerical and Administrative,177,0,0
+Connecticut,Community and Social Services,160,0,0
+Connecticut,Education and Training,168,0,0
+Connecticut,Human Resources,117,0,0
+Connecticut,"Maintenance, Repair, and Installation",125,0,0
+Connecticut,Not Employed,1,0,0
+Connecticut,Performing Arts,1,0,0
+Connecticut,Personal Services,44,0,0
+Connecticut,Transportation,168,0,0
+Connecticut,NA,5,0,0
+Delaware,Information Technology and Computer Science,157,25,0.1592356687898089
+Delaware,Social Analysis and Planning,7,1,0.14285714285714285
+Delaware,"Design, Media, and Writing",11,1,0.09090909090909091
+Delaware,Finance,128,7,0.0546875
+Delaware,Business Management and Operations,133,7,0.05263157894736842
+Delaware,Human Resources,43,2,0.046511627906976744
+Delaware,Marketing and Public Relations,26,1,0.038461538461538464
+Delaware,Science and Research,26,1,0.038461538461538464
+Delaware,Engineering,35,1,0.02857142857142857
+Delaware,Sales,163,2,0.012269938650306749
+Delaware,"Agriculture, Horticulture, & the Outdoors",5,0,0
+Delaware,Clerical and Administrative,48,0,0
+Delaware,Community and Social Services,29,0,0
+Delaware,"Construction, Extraction, and Architecture",22,0,0
+Delaware,Customer and Client Support,42,0,0
+Delaware,Education and Training,36,0,0
+Delaware,Healthcare,212,0,0
+Delaware,"Hospitality, Food, and Tourism",83,0,0
+Delaware,"Law, Compliance, and Public Safety",23,0,0
+Delaware,"Maintenance, Repair, and Installation",45,0,0
+Delaware,Manufacturing and Production,40,0,0
+Delaware,Not Employed,2,0,0
+Delaware,Personal Services,8,0,0
+Delaware,Transportation,54,0,0
+Delaware,Unclassified Career Area,30,0,0
+Delaware,NA,1,0,0
+Florida,Information Technology and Computer Science,1659,185,0.11151295961422544
+Florida,Science and Research,118,4,0.03389830508474576
+Florida,Marketing and Public Relations,361,12,0.0332409972299169
+Florida,Unclassified Career Area,419,12,0.028639618138424822
+Florida,Social Analysis and Planning,44,1,0.022727272727272728
+Florida,Business Management and Operations,1598,24,0.015018773466833541
+Florida,"Design, Media, and Writing",219,2,0.0091324200913242
+Florida,Customer and Client Support,724,6,0.008287292817679558
+Florida,Finance,1525,12,0.007868852459016393
+Florida,"Construction, Extraction, and Architecture",521,4,0.007677543186180422
+Florida,Engineering,401,3,0.007481296758104738
+Florida,Human Resources,484,3,0.006198347107438017
+Florida,Sales,2841,17,0.00598380851812742
+Florida,Healthcare,4021,22,0.005471275802039294
+Florida,Education and Training,579,3,0.0051813471502590676
+Florida,Community and Social Services,442,2,0.004524886877828055
+Florida,"Maintenance, Repair, and Installation",907,3,0.0033076074972436605
+Florida,Clerical and Administrative,1085,3,0.0027649769585253456
+Florida,Manufacturing and Production,504,1,0.001984126984126984
+Florida,Transportation,611,1,0.0016366612111292963
+Florida,"Hospitality, Food, and Tourism",2042,1,4.897159647404506e-4
+Florida,"Agriculture, Horticulture, & the Outdoors",160,0,0
+Florida,"Law, Compliance, and Public Safety",572,0,0
+Florida,Not Employed,9,0,0
+Florida,Performing Arts,17,0,0
+Florida,Personal Services,216,0,0
+Florida,NA,26,0,0
+Georgia,Information Technology and Computer Science,1505,165,0.10963455149501661
+Georgia,Marketing and Public Relations,292,16,0.0547945205479452
+Georgia,Science and Research,93,4,0.043010752688172046
+Georgia,Engineering,295,8,0.02711864406779661
+Georgia,Unclassified Career Area,245,6,0.024489795918367346
+Georgia,"Design, Media, and Writing",130,3,0.023076923076923078
+Georgia,Business Management and Operations,1297,24,0.018504240555127217
+Georgia,Manufacturing and Production,426,7,0.01643192488262911
+Georgia,Customer and Client Support,391,4,0.010230179028132993
+Georgia,Finance,843,8,0.009489916963226572
+Georgia,Clerical and Administrative,439,4,0.009111617312072893
+Georgia,Education and Training,335,3,0.008955223880597015
+Georgia,"Maintenance, Repair, and Installation",510,4,0.00784313725490196
+Georgia,Sales,1522,11,0.007227332457293035
+Georgia,"Construction, Extraction, and Architecture",250,1,0.004
+Georgia,"Law, Compliance, and Public Safety",275,1,0.0036363636363636364
+Georgia,Human Resources,290,1,0.0034482758620689655
+Georgia,"Agriculture, Horticulture, & the Outdoors",81,0,0
+Georgia,Community and Social Services,215,0,0
+Georgia,Healthcare,1992,0,0
+Georgia,"Hospitality, Food, and Tourism",903,0,0
+Georgia,Not Employed,2,0,0
+Georgia,Performing Arts,6,0,0
+Georgia,Personal Services,96,0,0
+Georgia,Social Analysis and Planning,31,0,0
+Georgia,Transportation,562,0,0
+Georgia,NA,20,0,0
+Hawaii,Social Analysis and Planning,5,1,0.2
+Hawaii,Information Technology and Computer Science,88,13,0.14772727272727273
+Hawaii,Unclassified Career Area,42,3,0.07142857142857142
+Hawaii,Science and Research,15,1,0.06666666666666667
+Hawaii,"Agriculture, Horticulture, & the Outdoors",17,1,0.058823529411764705
+Hawaii,Finance,87,3,0.034482758620689655
+Hawaii,Business Management and Operations,122,3,0.02459016393442623
+Hawaii,Clerical and Administrative,107,2,0.018691588785046728
+Hawaii,Education and Training,54,1,0.018518518518518517
+Hawaii,Customer and Client Support,58,1,0.017241379310344827
+Hawaii,Sales,191,1,0.005235602094240838
+Hawaii,Community and Social Services,46,0,0
+Hawaii,"Construction, Extraction, and Architecture",31,0,0
+Hawaii,"Design, Media, and Writing",15,0,0
+Hawaii,Engineering,20,0,0
+Hawaii,Healthcare,204,0,0
+Hawaii,"Hospitality, Food, and Tourism",179,0,0
+Hawaii,Human Resources,37,0,0
+Hawaii,"Law, Compliance, and Public Safety",41,0,0
+Hawaii,"Maintenance, Repair, and Installation",68,0,0
+Hawaii,Manufacturing and Production,33,0,0
+Hawaii,Marketing and Public Relations,21,0,0
+Hawaii,Performing Arts,1,0,0
+Hawaii,Personal Services,19,0,0
+Hawaii,Transportation,40,0,0
+Hawaii,NA,1,0,0
+Idaho,Information Technology and Computer Science,148,18,0.12162162162162163
+Idaho,Marketing and Public Relations,35,3,0.08571428571428572
+Idaho,Engineering,51,4,0.0784313725490196
+Idaho,Unclassified Career Area,53,2,0.03773584905660377
+Idaho,Finance,119,2,0.01680672268907563
+Idaho,Business Management and Operations,161,2,0.012422360248447204
+Idaho,"Maintenance, Repair, and Installation",82,1,0.012195121951219513
+Idaho,Customer and Client Support,87,1,0.011494252873563218
+Idaho,"Agriculture, Horticulture, & the Outdoors",27,0,0
+Idaho,Clerical and Administrative,98,0,0
+Idaho,Community and Social Services,63,0,0
+Idaho,"Construction, Extraction, and Architecture",52,0,0
+Idaho,"Design, Media, and Writing",15,0,0
+Idaho,Education and Training,100,0,0
+Idaho,Healthcare,352,0,0
+Idaho,"Hospitality, Food, and Tourism",176,0,0
+Idaho,Human Resources,37,0,0
+Idaho,"Law, Compliance, and Public Safety",45,0,0
+Idaho,Manufacturing and Production,72,0,0
+Idaho,Performing Arts,1,0,0
+Idaho,Personal Services,22,0,0
+Idaho,Sales,245,0,0
+Idaho,Science and Research,27,0,0
+Idaho,Transportation,98,0,0
+Idaho,NA,1,0,0
+Illinois,Not Employed,7,1,0.14285714285714285
+Illinois,Information Technology and Computer Science,1735,242,0.13948126801152738
+Illinois,Social Analysis and Planning,21,2,0.09523809523809523
+Illinois,Marketing and Public Relations,410,18,0.04390243902439024
+Illinois,Science and Research,138,5,0.036231884057971016
+Illinois,Unclassified Career Area,264,9,0.03409090909090909
+Illinois,Engineering,373,9,0.024128686327077747
+Illinois,Business Management and Operations,1551,33,0.02127659574468085
+Illinois,Education and Training,488,9,0.018442622950819672
+Illinois,Finance,1166,18,0.015437392795883362
+Illinois,"Agriculture, Horticulture, & the Outdoors",66,1,0.015151515151515152
+Illinois,Manufacturing and Production,549,7,0.012750455373406194
+Illinois,Human Resources,481,4,0.008316008316008316
+Illinois,"Law, Compliance, and Public Safety",365,3,0.00821917808219178
+Illinois,Sales,1984,15,0.007560483870967742
+Illinois,Community and Social Services,443,2,0.004514672686230248
+Illinois,"Maintenance, Repair, and Installation",452,2,0.004424778761061947
+Illinois,Healthcare,2323,9,0.0038743004735256135
+Illinois,Clerical and Administrative,621,2,0.00322061191626409
+Illinois,Customer and Client Support,498,1,0.002008032128514056
+Illinois,"Hospitality, Food, and Tourism",1109,1,9.017132551848512e-4
+Illinois,"Construction, Extraction, and Architecture",201,0,0
+Illinois,"Design, Media, and Writing",187,0,0
+Illinois,Performing Arts,16,0,0
+Illinois,Personal Services,127,0,0
+Illinois,Transportation,786,0,0
+Illinois,NA,18,0,0
+Indiana,Information Technology and Computer Science,414,34,0.0821256038647343
+Indiana,Science and Research,60,3,0.05
+Indiana,"Design, Media, and Writing",49,2,0.04081632653061224
+Indiana,Engineering,212,4,0.018867924528301886
+Indiana,Education and Training,225,3,0.013333333333333334
+Indiana,Marketing and Public Relations,97,1,0.010309278350515464
+Indiana,Business Management and Operations,706,6,0.0084985835694051
+Indiana,"Maintenance, Repair, and Installation",360,3,0.008333333333333333
+Indiana,Clerical and Administrative,282,2,0.0070921985815602835
+Indiana,"Construction, Extraction, and Architecture",141,1,0.0070921985815602835
+Indiana,Manufacturing and Production,353,2,0.0056657223796034
+Indiana,Customer and Client Support,232,1,0.004310344827586207
+Indiana,Sales,978,3,0.003067484662576687
+Indiana,Finance,354,1,0.002824858757062147
+Indiana,Healthcare,1413,2,0.0014154281670205238
+Indiana,"Agriculture, Horticulture, & the Outdoors",33,0,0
+Indiana,Community and Social Services,180,0,0
+Indiana,"Hospitality, Food, and Tourism",628,0,0
+Indiana,Human Resources,179,0,0
+Indiana,"Law, Compliance, and Public Safety",141,0,0
+Indiana,Performing Arts,5,0,0
+Indiana,Personal Services,62,0,0
+Indiana,Social Analysis and Planning,6,0,0
+Indiana,Transportation,460,0,0
+Indiana,Unclassified Career Area,158,0,0
+Indiana,NA,12,0,0
+Iowa,Information Technology and Computer Science,312,24,0.07692307692307693
+Iowa,Marketing and Public Relations,72,5,0.06944444444444445
+Iowa,Science and Research,32,1,0.03125
+Iowa,Engineering,130,4,0.03076923076923077
+Iowa,Unclassified Career Area,86,2,0.023255813953488372
+Iowa,Finance,242,4,0.01652892561983471
+Iowa,Education and Training,182,2,0.01098901098901099
+Iowa,Business Management and Operations,361,3,0.008310249307479225
+Iowa,Community and Social Services,122,1,0.00819672131147541
+Iowa,Customer and Client Support,170,1,0.0058823529411764705
+Iowa,Manufacturing and Production,224,1,0.004464285714285714
+Iowa,Healthcare,738,2,0.0027100271002710027
+Iowa,Sales,583,1,0.0017152658662092624
+Iowa,"Agriculture, Horticulture, & the Outdoors",34,0,0
+Iowa,Clerical and Administrative,211,0,0
+Iowa,"Construction, Extraction, and Architecture",119,0,0
+Iowa,"Design, Media, and Writing",45,0,0
+Iowa,"Hospitality, Food, and Tourism",385,0,0
+Iowa,Human Resources,109,0,0
+Iowa,"Law, Compliance, and Public Safety",80,0,0
+Iowa,"Maintenance, Repair, and Installation",200,0,0
+Iowa,Not Employed,2,0,0
+Iowa,Performing Arts,5,0,0
+Iowa,Personal Services,34,0,0
+Iowa,Social Analysis and Planning,6,0,0
+Iowa,Transportation,274,0,0
+Iowa,NA,4,0,0
+Kansas,Information Technology and Computer Science,303,29,0.09570957095709572
+Kansas,"Design, Media, and Writing",35,1,0.02857142857142857
+Kansas,Unclassified Career Area,72,2,0.027777777777777776
+Kansas,Marketing and Public Relations,50,1,0.02
+Kansas,Customer and Client Support,111,2,0.018018018018018018
+Kansas,"Maintenance, Repair, and Installation",180,3,0.016666666666666666
+Kansas,Finance,216,3,0.013888888888888888
+Kansas,Manufacturing and Production,169,2,0.011834319526627219
+Kansas,Human Resources,97,1,0.010309278350515464
+Kansas,Engineering,112,1,0.008928571428571428
+Kansas,Education and Training,126,1,0.007936507936507936
+Kansas,Business Management and Operations,315,2,0.006349206349206349
+Kansas,"Hospitality, Food, and Tourism",304,1,0.003289473684210526
+Kansas,"Agriculture, Horticulture, & the Outdoors",37,0,0
+Kansas,Clerical and Administrative,154,0,0
+Kansas,Community and Social Services,78,0,0
+Kansas,"Construction, Extraction, and Architecture",80,0,0
+Kansas,Healthcare,612,0,0
+Kansas,"Law, Compliance, and Public Safety",74,0,0
+Kansas,Not Employed,2,0,0
+Kansas,Performing Arts,3,0,0
+Kansas,Personal Services,40,0,0
+Kansas,Sales,501,0,0
+Kansas,Science and Research,39,0,0
+Kansas,Social Analysis and Planning,5,0,0
+Kansas,Transportation,184,0,0
+Kansas,NA,1,0,0
+Kentucky,Information Technology and Computer Science,235,15,0.06382978723404255
+Kentucky,Marketing and Public Relations,50,3,0.06
+Kentucky,"Design, Media, and Writing",22,1,0.045454545454545456
+Kentucky,Engineering,105,3,0.02857142857142857
+Kentucky,Business Management and Operations,358,9,0.025139664804469275
+Kentucky,"Maintenance, Repair, and Installation",182,4,0.02197802197802198
+Kentucky,Unclassified Career Area,74,1,0.013513513513513514
+Kentucky,Human Resources,85,1,0.011764705882352941
+Kentucky,Clerical and Administrative,182,2,0.01098901098901099
+Kentucky,"Law, Compliance, and Public Safety",102,1,0.00980392156862745
+Kentucky,Finance,219,2,0.0091324200913242
+Kentucky,Community and Social Services,129,1,0.007751937984496124
+Kentucky,Education and Training,133,1,0.007518796992481203
+Kentucky,Sales,576,2,0.003472222222222222
+Kentucky,Healthcare,781,2,0.002560819462227913
+Kentucky,"Agriculture, Horticulture, & the Outdoors",22,0,0
+Kentucky,"Construction, Extraction, and Architecture",83,0,0
+Kentucky,Customer and Client Support,148,0,0
+Kentucky,"Hospitality, Food, and Tourism",384,0,0
+Kentucky,Manufacturing and Production,190,0,0
+Kentucky,Performing Arts,1,0,0
+Kentucky,Personal Services,30,0,0
+Kentucky,Science and Research,22,0,0
+Kentucky,Social Analysis and Planning,11,0,0
+Kentucky,Transportation,243,0,0
+Kentucky,NA,2,0,0
+Louisiana,Information Technology and Computer Science,183,26,0.14207650273224043
+Louisiana,Science and Research,34,1,0.029411764705882353
+Louisiana,Business Management and Operations,291,7,0.024054982817869417
+Louisiana,Human Resources,87,2,0.022988505747126436
+Louisiana,Personal Services,45,1,0.022222222222222223
+Louisiana,Unclassified Career Area,78,1,0.01282051282051282
+Louisiana,"Maintenance, Repair, and Installation",196,2,0.01020408163265306
+Louisiana,Engineering,112,1,0.008928571428571428
+Louisiana,Education and Training,123,1,0.008130081300813009
+Louisiana,"Construction, Extraction, and Architecture",133,1,0.007518796992481203
+Louisiana,Manufacturing and Production,137,1,0.0072992700729927005
+Louisiana,Finance,221,1,0.004524886877828055
+Louisiana,Sales,625,2,0.0032
+Louisiana,Healthcare,736,2,0.002717391304347826
+Louisiana,"Agriculture, Horticulture, & the Outdoors",29,0,0
+Louisiana,Clerical and Administrative,176,0,0
+Louisiana,Community and Social Services,124,0,0
+Louisiana,Customer and Client Support,143,0,0
+Louisiana,"Design, Media, and Writing",37,0,0
+Louisiana,"Hospitality, Food, and Tourism",427,0,0
+Louisiana,"Law, Compliance, and Public Safety",114,0,0
+Louisiana,Marketing and Public Relations,41,0,0
+Louisiana,Not Employed,2,0,0
+Louisiana,Performing Arts,3,0,0
+Louisiana,Social Analysis and Planning,7,0,0
+Louisiana,Transportation,183,0,0
+Louisiana,NA,5,0,0
+Maine,Information Technology and Computer Science,98,10,0.10204081632653061
+Maine,Marketing and Public Relations,31,2,0.06451612903225806
+Maine,Engineering,29,1,0.034482758620689655
+Maine,Customer and Client Support,43,1,0.023255813953488372
+Maine,Business Management and Operations,101,2,0.019801980198019802
+Maine,Community and Social Services,66,1,0.015151515151515152
+Maine,Finance,77,1,0.012987012987012988
+Maine,"Agriculture, Horticulture, & the Outdoors",12,0,0
+Maine,Clerical and Administrative,53,0,0
+Maine,"Construction, Extraction, and Architecture",35,0,0
+Maine,"Design, Media, and Writing",13,0,0
+Maine,Education and Training,55,0,0
+Maine,Healthcare,324,0,0
+Maine,"Hospitality, Food, and Tourism",87,0,0
+Maine,Human Resources,34,0,0
+Maine,"Law, Compliance, and Public Safety",36,0,0
+Maine,"Maintenance, Repair, and Installation",49,0,0
+Maine,Manufacturing and Production,51,0,0
+Maine,Performing Arts,4,0,0
+Maine,Personal Services,10,0,0
+Maine,Sales,187,0,0
+Maine,Science and Research,8,0,0
+Maine,Social Analysis and Planning,3,0,0
+Maine,Transportation,54,0,0
+Maine,Unclassified Career Area,20,0,0
+Maine,NA,2,0,0
+Maryland,Information Technology and Computer Science,1160,182,0.15689655172413794
+Maryland,Social Analysis and Planning,35,4,0.11428571428571428
+Maryland,Marketing and Public Relations,145,8,0.05517241379310345
+Maryland,Science and Research,97,4,0.041237113402061855
+Maryland,Unclassified Career Area,161,5,0.031055900621118012
+Maryland,Finance,440,13,0.029545454545454545
+Maryland,"Design, Media, and Writing",117,3,0.02564102564102564
+Maryland,"Law, Compliance, and Public Safety",193,4,0.02072538860103627
+Maryland,Engineering,206,3,0.014563106796116505
+Maryland,Education and Training,208,3,0.014423076923076924
+Maryland,Human Resources,169,2,0.011834319526627219
+Maryland,Business Management and Operations,699,7,0.010014306151645207
+Maryland,Clerical and Administrative,335,3,0.008955223880597015
+Maryland,Manufacturing and Production,179,1,0.00558659217877095
+Maryland,Healthcare,1213,6,0.00494641384995878
+Maryland,"Maintenance, Repair, and Installation",249,1,0.004016064257028112
+Maryland,Sales,917,3,0.003271537622682661
+Maryland,"Agriculture, Horticulture, & the Outdoors",36,0,0
+Maryland,Community and Social Services,176,0,0
+Maryland,"Construction, Extraction, and Architecture",117,0,0
+Maryland,Customer and Client Support,198,0,0
+Maryland,"Hospitality, Food, and Tourism",518,0,0
+Maryland,Not Employed,4,0,0
+Maryland,Performing Arts,6,0,0
+Maryland,Personal Services,73,0,0
+Maryland,Transportation,250,0,0
+Maryland,NA,7,0,0
+Massachusetts,Information Technology and Computer Science,1284,225,0.17523364485981308
+Massachusetts,Science and Research,278,28,0.10071942446043165
+Massachusetts,Unclassified Career Area,227,13,0.05726872246696035
+Massachusetts,Marketing and Public Relations,328,17,0.051829268292682924
+Massachusetts,Social Analysis and Planning,28,1,0.03571428571428571
+Massachusetts,"Design, Media, and Writing",168,5,0.02976190476190476
+Massachusetts,Engineering,397,11,0.027707808564231738
+Massachusetts,Business Management and Operations,1056,26,0.02462121212121212
+Massachusetts,Human Resources,350,7,0.02
+Massachusetts,Education and Training,600,10,0.016666666666666666
+Massachusetts,"Maintenance, Repair, and Installation",278,4,0.014388489208633094
+Massachusetts,Sales,1222,17,0.013911620294599018
+Massachusetts,Finance,723,10,0.013831258644536652
+Massachusetts,"Law, Compliance, and Public Safety",251,3,0.01195219123505976
+Massachusetts,Manufacturing and Production,342,3,0.008771929824561403
+Massachusetts,Clerical and Administrative,487,4,0.008213552361396304
+Massachusetts,Healthcare,1782,14,0.007856341189674524
+Massachusetts,Community and Social Services,404,2,0.0049504950495049506
+Massachusetts,Customer and Client Support,314,1,0.0031847133757961785
+Massachusetts,"Agriculture, Horticulture, & the Outdoors",50,0,0
+Massachusetts,"Construction, Extraction, and Architecture",155,0,0
+Massachusetts,"Hospitality, Food, and Tourism",732,0,0
+Massachusetts,Not Employed,4,0,0
+Massachusetts,Performing Arts,5,0,0
+Massachusetts,Personal Services,107,0,0
+Massachusetts,Transportation,269,0,0
+Massachusetts,NA,9,0,0
+Michigan,Information Technology and Computer Science,1067,120,0.11246485473289597
+Michigan,Science and Research,92,6,0.06521739130434782
+Michigan,Marketing and Public Relations,191,9,0.04712041884816754
+Michigan,Social Analysis and Planning,23,1,0.043478260869565216
+Michigan,Unclassified Career Area,230,6,0.02608695652173913
+Michigan,Engineering,601,11,0.018302828618968387
+Michigan,"Law, Compliance, and Public Safety",243,4,0.01646090534979424
+Michigan,Business Management and Operations,1019,15,0.014720314033366046
+Michigan,"Agriculture, Horticulture, & the Outdoors",79,1,0.012658227848101266
+Michigan,Human Resources,259,3,0.011583011583011582
+Michigan,Manufacturing and Production,541,6,0.011090573012939002
+Michigan,Finance,644,7,0.010869565217391304
+Michigan,"Design, Media, and Writing",113,1,0.008849557522123894
+Michigan,"Maintenance, Repair, and Installation",495,4,0.00808080808080808
+Michigan,Education and Training,356,2,0.0056179775280898875
+Michigan,"Construction, Extraction, and Architecture",234,1,0.004273504273504274
+Michigan,Community and Social Services,333,1,0.003003003003003003
+Michigan,Customer and Client Support,351,1,0.002849002849002849
+Michigan,Sales,1666,4,0.0024009603841536613
+Michigan,Clerical and Administrative,458,1,0.002183406113537118
+Michigan,Healthcare,1880,3,0.0015957446808510637
+Michigan,"Hospitality, Food, and Tourism",1039,0,0
+Michigan,Performing Arts,5,0,0
+Michigan,Personal Services,118,0,0
+Michigan,Transportation,460,0,0
+Michigan,NA,25,0,0
+Minnesota,Information Technology and Computer Science,762,92,0.12073490813648294
+Minnesota,"Agriculture, Horticulture, & the Outdoors",48,2,0.041666666666666664
+Minnesota,Marketing and Public Relations,198,7,0.03535353535353535
+Minnesota,Science and Research,73,2,0.0273972602739726
+Minnesota,"Law, Compliance, and Public Safety",156,4,0.02564102564102564
+Minnesota,Unclassified Career Area,187,4,0.0213903743315508
+Minnesota,Business Management and Operations,791,13,0.01643489254108723
+Minnesota,Engineering,310,3,0.00967741935483871
+Minnesota,"Maintenance, Repair, and Installation",358,3,0.008379888268156424
+Minnesota,Community and Social Services,294,2,0.006802721088435374
+Minnesota,Sales,1008,6,0.005952380952380952
+Minnesota,Education and Training,358,2,0.00558659217877095
+Minnesota,Finance,560,3,0.005357142857142857
+Minnesota,Human Resources,225,1,0.0044444444444444444
+Minnesota,Healthcare,1113,4,0.0035938903863432167
+Minnesota,Clerical and Administrative,347,1,0.002881844380403458
+Minnesota,Manufacturing and Production,505,1,0.0019801980198019802
+Minnesota,"Hospitality, Food, and Tourism",600,1,0.0016666666666666668
+Minnesota,"Construction, Extraction, and Architecture",142,0,0
+Minnesota,Customer and Client Support,252,0,0
+Minnesota,"Design, Media, and Writing",91,0,0
+Minnesota,Not Employed,5,0,0
+Minnesota,Performing Arts,9,0,0
+Minnesota,Personal Services,61,0,0
+Minnesota,Social Analysis and Planning,12,0,0
+Minnesota,Transportation,289,0,0
+Minnesota,NA,4,0,0
+Mississippi,Information Technology and Computer Science,104,11,0.10576923076923077
+Mississippi,Marketing and Public Relations,22,1,0.045454545454545456
+Mississippi,Engineering,56,2,0.03571428571428571
+Mississippi,Unclassified Career Area,42,1,0.023809523809523808
+Mississippi,"Maintenance, Repair, and Installation",121,2,0.01652892561983471
+Mississippi,Business Management and Operations,185,3,0.016216216216216217
+Mississippi,Sales,320,4,0.0125
+Mississippi,Healthcare,372,1,0.002688172043010753
+Mississippi,"Agriculture, Horticulture, & the Outdoors",13,0,0
+Mississippi,Clerical and Administrative,61,0,0
+Mississippi,Community and Social Services,70,0,0
+Mississippi,"Construction, Extraction, and Architecture",45,0,0
+Mississippi,Customer and Client Support,78,0,0
+Mississippi,"Design, Media, and Writing",12,0,0
+Mississippi,Education and Training,68,0,0
+Mississippi,Finance,96,0,0
+Mississippi,"Hospitality, Food, and Tourism",191,0,0
+Mississippi,Human Resources,31,0,0
+Mississippi,"Law, Compliance, and Public Safety",52,0,0
+Mississippi,Manufacturing and Production,66,0,0
+Mississippi,Performing Arts,3,0,0
+Mississippi,Personal Services,12,0,0
+Mississippi,Science and Research,17,0,0
+Mississippi,Social Analysis and Planning,3,0,0
+Mississippi,Transportation,107,0,0
+Mississippi,NA,2,0,0
+Missouri,Information Technology and Computer Science,620,75,0.12096774193548387
+Missouri,Engineering,207,9,0.043478260869565216
+Missouri,Marketing and Public Relations,113,3,0.02654867256637168
+Missouri,Business Management and Operations,607,12,0.019769357495881382
+Missouri,Science and Research,87,1,0.011494252873563218
+Missouri,Finance,443,4,0.009029345372460496
+Missouri,"Construction, Extraction, and Architecture",130,1,0.007692307692307693
+Missouri,Unclassified Career Area,145,1,0.006896551724137931
+Missouri,Human Resources,164,1,0.006097560975609756
+Missouri,"Law, Compliance, and Public Safety",166,1,0.006024096385542169
+Missouri,Community and Social Services,180,1,0.005555555555555556
+Missouri,Education and Training,197,1,0.005076142131979695
+Missouri,Customer and Client Support,221,1,0.004524886877828055
+Missouri,Transportation,257,1,0.0038910505836575876
+Missouri,Clerical and Administrative,277,1,0.0036101083032490976
+Missouri,"Maintenance, Repair, and Installation",310,1,0.0032258064516129032
+Missouri,Sales,915,2,0.002185792349726776
+Missouri,Healthcare,1302,2,0.0015360983102918587
+Missouri,"Agriculture, Horticulture, & the Outdoors",37,0,0
+Missouri,"Design, Media, and Writing",71,0,0
+Missouri,"Hospitality, Food, and Tourism",589,0,0
+Missouri,Manufacturing and Production,254,0,0
+Missouri,Not Employed,1,0,0
+Missouri,Performing Arts,3,0,0
+Missouri,Personal Services,59,0,0
+Missouri,Social Analysis and Planning,9,0,0
+Missouri,NA,4,0,0
+Montana,Science and Research,14,1,0.07142857142857142
+Montana,Information Technology and Computer Science,38,2,0.05263157894736842
+Montana,Engineering,23,1,0.043478260869565216
+Montana,Education and Training,39,1,0.02564102564102564
+Montana,Sales,146,1,0.00684931506849315
+Montana,Healthcare,234,1,0.004273504273504274
+Montana,"Agriculture, Horticulture, & the Outdoors",16,0,0
+Montana,Business Management and Operations,88,0,0
+Montana,Clerical and Administrative,66,0,0
+Montana,Community and Social Services,34,0,0
+Montana,"Construction, Extraction, and Architecture",37,0,0
+Montana,Customer and Client Support,45,0,0
+Montana,"Design, Media, and Writing",11,0,0
+Montana,Finance,74,0,0
+Montana,"Hospitality, Food, and Tourism",113,0,0
+Montana,Human Resources,24,0,0
+Montana,"Law, Compliance, and Public Safety",22,0,0
+Montana,"Maintenance, Repair, and Installation",51,0,0
+Montana,Manufacturing and Production,29,0,0
+Montana,Marketing and Public Relations,10,0,0
+Montana,Performing Arts,1,0,0
+Montana,Personal Services,12,0,0
+Montana,Social Analysis and Planning,4,0,0
+Montana,Transportation,71,0,0
+Montana,Unclassified Career Area,22,0,0
+Montana,NA,2,0,0
+Nebraska,Information Technology and Computer Science,238,26,0.1092436974789916
+Nebraska,Marketing and Public Relations,36,3,0.08333333333333333
+Nebraska,Unclassified Career Area,49,2,0.04081632653061224
+Nebraska,Education and Training,84,2,0.023809523809523808
+Nebraska,Engineering,58,1,0.017241379310344827
+Nebraska,Manufacturing and Production,116,2,0.017241379310344827
+Nebraska,Customer and Client Support,85,1,0.011764705882352941
+Nebraska,"Maintenance, Repair, and Installation",104,1,0.009615384615384616
+Nebraska,Finance,170,1,0.0058823529411764705
+Nebraska,Business Management and Operations,208,1,0.004807692307692308
+Nebraska,"Hospitality, Food, and Tourism",228,1,0.0043859649122807015
+Nebraska,"Agriculture, Horticulture, & the Outdoors",24,0,0
+Nebraska,Clerical and Administrative,123,0,0
+Nebraska,Community and Social Services,58,0,0
+Nebraska,"Construction, Extraction, and Architecture",74,0,0
+Nebraska,"Design, Media, and Writing",18,0,0
+Nebraska,Healthcare,422,0,0
+Nebraska,Human Resources,53,0,0
+Nebraska,"Law, Compliance, and Public Safety",56,0,0
+Nebraska,Not Employed,1,0,0
+Nebraska,Performing Arts,2,0,0
+Nebraska,Personal Services,13,0,0
+Nebraska,Sales,306,0,0
+Nebraska,Science and Research,27,0,0
+Nebraska,Social Analysis and Planning,8,0,0
+Nebraska,Transportation,140,0,0
+Nebraska,NA,2,0,0
+Nevada,Social Analysis and Planning,5,1,0.2
+Nevada,Information Technology and Computer Science,263,26,0.09885931558935361
+Nevada,Science and Research,29,1,0.034482758620689655
+Nevada,Personal Services,50,1,0.02
+Nevada,Marketing and Public Relations,78,1,0.01282051282051282
+Nevada,Finance,246,3,0.012195121951219513
+Nevada,Unclassified Career Area,83,1,0.012048192771084338
+Nevada,Human Resources,89,1,0.011235955056179775
+Nevada,Engineering,92,1,0.010869565217391304
+Nevada,Manufacturing and Production,94,1,0.010638297872340425
+Nevada,Customer and Client Support,127,1,0.007874015748031496
+Nevada,Education and Training,137,1,0.0072992700729927005
+Nevada,"Maintenance, Repair, and Installation",166,1,0.006024096385542169
+Nevada,Sales,510,2,0.00392156862745098
+Nevada,Business Management and Operations,328,1,0.003048780487804878
+Nevada,Healthcare,592,1,0.0016891891891891893
+Nevada,"Agriculture, Horticulture, & the Outdoors",21,0,0
+Nevada,Clerical and Administrative,177,0,0
+Nevada,Community and Social Services,78,0,0
+Nevada,"Construction, Extraction, and Architecture",67,0,0
+Nevada,"Design, Media, and Writing",53,0,0
+Nevada,"Hospitality, Food, and Tourism",494,0,0
+Nevada,"Law, Compliance, and Public Safety",107,0,0
+Nevada,Not Employed,2,0,0
+Nevada,Performing Arts,2,0,0
+Nevada,Transportation,107,0,0
+Nevada,NA,5,0,0
+New Hampshire,Information Technology and Computer Science,128,25,0.1953125
+New Hampshire,Marketing and Public Relations,23,1,0.043478260869565216
+New Hampshire,Unclassified Career Area,30,1,0.03333333333333333
+New Hampshire,Business Management and Operations,122,3,0.02459016393442623
+New Hampshire,Engineering,60,1,0.016666666666666666
+New Hampshire,Education and Training,68,1,0.014705882352941176
+New Hampshire,Finance,86,1,0.011627906976744186
+New Hampshire,Healthcare,356,1,0.0028089887640449437
+New Hampshire,"Agriculture, Horticulture, & the Outdoors",11,0,0
+New Hampshire,Clerical and Administrative,79,0,0
+New Hampshire,Community and Social Services,57,0,0
+New Hampshire,"Construction, Extraction, and Architecture",40,0,0
+New Hampshire,Customer and Client Support,66,0,0
+New Hampshire,"Design, Media, and Writing",11,0,0
+New Hampshire,"Hospitality, Food, and Tourism",95,0,0
+New Hampshire,Human Resources,43,0,0
+New Hampshire,"Law, Compliance, and Public Safety",34,0,0
+New Hampshire,"Maintenance, Repair, and Installation",63,0,0
+New Hampshire,Manufacturing and Production,86,0,0
+New Hampshire,Not Employed,1,0,0
+New Hampshire,Performing Arts,1,0,0
+New Hampshire,Personal Services,25,0,0
+New Hampshire,Sales,227,0,0
+New Hampshire,Science and Research,9,0,0
+New Hampshire,Social Analysis and Planning,2,0,0
+New Hampshire,Transportation,45,0,0
+New Hampshire,NA,2,0,0
+New Jersey,Information Technology and Computer Science,1396,209,0.1497134670487106
+New Jersey,Social Analysis and Planning,24,2,0.08333333333333333
+New Jersey,Marketing and Public Relations,281,15,0.05338078291814947
+New Jersey,Science and Research,155,8,0.05161290322580645
+New Jersey,Unclassified Career Area,194,10,0.05154639175257732
+New Jersey,Engineering,249,9,0.03614457831325301
+New Jersey,Business Management and Operations,1039,30,0.028873917228103944
+New Jersey,Human Resources,268,7,0.026119402985074626
+New Jersey,Education and Training,294,7,0.023809523809523808
+New Jersey,"Agriculture, Horticulture, & the Outdoors",56,1,0.017857142857142856
+New Jersey,Finance,790,13,0.016455696202531647
+New Jersey,Sales,1242,16,0.01288244766505636
+New Jersey,Clerical and Administrative,438,4,0.0091324200913242
+New Jersey,"Design, Media, and Writing",126,1,0.007936507936507936
+New Jersey,"Law, Compliance, and Public Safety",254,2,0.007874015748031496
+New Jersey,Customer and Client Support,294,2,0.006802721088435374
+New Jersey,Manufacturing and Production,296,2,0.006756756756756757
+New Jersey,Community and Social Services,207,1,0.004830917874396135
+New Jersey,Healthcare,1588,6,0.003778337531486146
+New Jersey,"Maintenance, Repair, and Installation",312,1,0.003205128205128205
+New Jersey,"Construction, Extraction, and Architecture",114,0,0
+New Jersey,"Hospitality, Food, and Tourism",639,0,0
+New Jersey,Not Employed,1,0,0
+New Jersey,Performing Arts,15,0,0
+New Jersey,Personal Services,88,0,0
+New Jersey,Transportation,324,0,0
+New Jersey,NA,8,0,0
+New Mexico,Information Technology and Computer Science,130,13,0.1
+New Mexico,Science and Research,34,3,0.08823529411764706
+New Mexico,Engineering,87,4,0.04597701149425287
+New Mexico,Manufacturing and Production,64,1,0.015625
+New Mexico,Customer and Client Support,65,1,0.015384615384615385
+New Mexico,"Maintenance, Repair, and Installation",105,1,0.009523809523809525
+New Mexico,Sales,242,2,0.008264462809917356
+New Mexico,"Agriculture, Horticulture, & the Outdoors",12,0,0
+New Mexico,Business Management and Operations,142,0,0
+New Mexico,Clerical and Administrative,82,0,0
+New Mexico,Community and Social Services,81,0,0
+New Mexico,"Construction, Extraction, and Architecture",57,0,0
+New Mexico,"Design, Media, and Writing",27,0,0
+New Mexico,Education and Training,100,0,0
+New Mexico,Finance,79,0,0
+New Mexico,Healthcare,502,0,0
+New Mexico,"Hospitality, Food, and Tourism",166,0,0
+New Mexico,Human Resources,42,0,0
+New Mexico,"Law, Compliance, and Public Safety",57,0,0
+New Mexico,Marketing and Public Relations,26,0,0
+New Mexico,Not Employed,2,0,0
+New Mexico,Performing Arts,2,0,0
+New Mexico,Personal Services,15,0,0
+New Mexico,Social Analysis and Planning,4,0,0
+New Mexico,Transportation,78,0,0
+New Mexico,Unclassified Career Area,57,0,0
+New Mexico,NA,1,0,0
+New York,Information Technology and Computer Science,2227,339,0.1522227211495285
+New York,Social Analysis and Planning,34,5,0.14705882352941177
+New York,NA,20,1,0.05
+New York,Marketing and Public Relations,693,33,0.047619047619047616
+New York,Science and Research,220,9,0.04090909090909091
+New York,Unclassified Career Area,401,16,0.0399002493765586
+New York,Business Management and Operations,1720,59,0.03430232558139535
+New York,"Design, Media, and Writing",484,14,0.028925619834710745
+New York,Engineering,520,14,0.026923076923076925
+New York,Finance,1694,42,0.024793388429752067
+New York,Human Resources,522,8,0.01532567049808429
+New York,Education and Training,603,9,0.014925373134328358
+New York,Manufacturing and Production,500,7,0.014
+New York,"Agriculture, Horticulture, & the Outdoors",82,1,0.012195121951219513
+New York,Sales,2300,26,0.011304347826086957
+New York,Community and Social Services,505,4,0.007920792079207921
+New York,"Maintenance, Repair, and Installation",454,3,0.006607929515418502
+New York,Clerical and Administrative,944,4,0.00423728813559322
+New York,Customer and Client Support,515,2,0.003883495145631068
+New York,"Construction, Extraction, and Architecture",272,1,0.003676470588235294
+New York,Healthcare,2688,9,0.0033482142857142855
+New York,Transportation,401,1,0.0024937655860349127
+New York,"Law, Compliance, and Public Safety",495,1,0.00202020202020202
+New York,"Hospitality, Food, and Tourism",1176,2,0.0017006802721088435
+New York,Not Employed,8,0,0
+New York,Performing Arts,23,0,0
+New York,Personal Services,122,0,0
+North Carolina,Information Technology and Computer Science,1324,193,0.14577039274924472
+North Carolina,Science and Research,138,6,0.043478260869565216
+North Carolina,Marketing and Public Relations,209,7,0.03349282296650718
+North Carolina,Business Management and Operations,1100,27,0.024545454545454544
+North Carolina,"Design, Media, and Writing",136,3,0.022058823529411766
+North Carolina,Unclassified Career Area,233,5,0.02145922746781116
+North Carolina,Engineering,342,7,0.02046783625730994
+North Carolina,Finance,627,11,0.017543859649122806
+North Carolina,Human Resources,254,4,0.015748031496062992
+North Carolina,"Maintenance, Repair, and Installation",484,7,0.014462809917355372
+North Carolina,"Agriculture, Horticulture, & the Outdoors",84,1,0.011904761904761904
+North Carolina,Sales,1520,16,0.010526315789473684
+North Carolina,Education and Training,432,4,0.009259259259259259
+North Carolina,Customer and Client Support,354,3,0.00847457627118644
+North Carolina,Clerical and Administrative,375,2,0.005333333333333333
+North Carolina,Healthcare,1897,10,0.005271481286241434
+North Carolina,"Law, Compliance, and Public Safety",206,1,0.0048543689320388345
+North Carolina,Manufacturing and Production,428,2,0.004672897196261682
+North Carolina,"Construction, Extraction, and Architecture",251,1,0.00398406374501992
+North Carolina,"Hospitality, Food, and Tourism",924,2,0.0021645021645021645
+North Carolina,Community and Social Services,238,0,0
+North Carolina,Not Employed,4,0,0
+North Carolina,Performing Arts,8,0,0
+North Carolina,Personal Services,105,0,0
+North Carolina,Social Analysis and Planning,17,0,0
+North Carolina,Transportation,391,0,0
+North Carolina,NA,7,0,0
+North Dakota,Information Technology and Computer Science,48,3,0.0625
+North Dakota,Community and Social Services,20,1,0.05
+North Dakota,Human Resources,21,1,0.047619047619047616
+North Dakota,"Agriculture, Horticulture, & the Outdoors",12,0,0
+North Dakota,Business Management and Operations,93,0,0
+North Dakota,Clerical and Administrative,47,0,0
+North Dakota,"Construction, Extraction, and Architecture",50,0,0
+North Dakota,Customer and Client Support,30,0,0
+North Dakota,"Design, Media, and Writing",6,0,0
+North Dakota,Education and Training,13,0,0
+North Dakota,Engineering,43,0,0
+North Dakota,Finance,55,0,0
+North Dakota,Healthcare,198,0,0
+North Dakota,"Hospitality, Food, and Tourism",64,0,0
+North Dakota,"Law, Compliance, and Public Safety",18,0,0
+North Dakota,"Maintenance, Repair, and Installation",53,0,0
+North Dakota,Manufacturing and Production,60,0,0
+North Dakota,Marketing and Public Relations,13,0,0
+North Dakota,Personal Services,8,0,0
+North Dakota,Sales,107,0,0
+North Dakota,Science and Research,9,0,0
+North Dakota,Social Analysis and Planning,2,0,0
+North Dakota,Transportation,68,0,0
+North Dakota,Unclassified Career Area,24,0,0
+Ohio,Social Analysis and Planning,19,3,0.15789473684210525
+Ohio,Information Technology and Computer Science,1154,118,0.1022530329289428
+Ohio,Marketing and Public Relations,243,9,0.037037037037037035
+Ohio,Science and Research,105,2,0.01904761904761905
+Ohio,Engineering,423,8,0.018912529550827423
+Ohio,"Design, Media, and Writing",116,2,0.017241379310344827
+Ohio,Unclassified Career Area,245,4,0.0163265306122449
+Ohio,Business Management and Operations,1288,18,0.013975155279503106
+Ohio,Human Resources,291,4,0.013745704467353952
+Ohio,"Maintenance, Repair, and Installation",599,5,0.008347245409015025
+Ohio,Education and Training,368,3,0.008152173913043478
+Ohio,Finance,908,6,0.006607929515418502
+Ohio,Manufacturing and Production,626,4,0.006389776357827476
+Ohio,Community and Social Services,319,2,0.006269592476489028
+Ohio,"Law, Compliance, and Public Safety",248,1,0.004032258064516129
+Ohio,Sales,1706,6,0.0035169988276670576
+Ohio,Customer and Client Support,400,1,0.0025
+Ohio,Healthcare,2300,3,0.0013043478260869566
+Ohio,"Hospitality, Food, and Tourism",1088,1,9.191176470588235e-4
+Ohio,"Agriculture, Horticulture, & the Outdoors",71,0,0
+Ohio,Clerical and Administrative,503,0,0
+Ohio,"Construction, Extraction, and Architecture",273,0,0
+Ohio,Not Employed,3,0,0
+Ohio,Performing Arts,9,0,0
+Ohio,Personal Services,131,0,0
+Ohio,Transportation,628,0,0
+Ohio,NA,21,0,0
+Oklahoma,Information Technology and Computer Science,235,14,0.059574468085106386
+Oklahoma,Unclassified Career Area,74,3,0.04054054054054054
+Oklahoma,"Design, Media, and Writing",36,1,0.027777777777777776
+Oklahoma,Marketing and Public Relations,39,1,0.02564102564102564
+Oklahoma,Finance,210,4,0.01904761904761905
+Oklahoma,Engineering,113,2,0.017699115044247787
+Oklahoma,"Law, Compliance, and Public Safety",85,1,0.011764705882352941
+Oklahoma,Community and Social Services,96,1,0.010416666666666666
+Oklahoma,Business Management and Operations,309,3,0.009708737864077669
+Oklahoma,Education and Training,123,1,0.008130081300813009
+Oklahoma,Manufacturing and Production,176,1,0.005681818181818182
+Oklahoma,Sales,503,2,0.003976143141153081
+Oklahoma,"Hospitality, Food, and Tourism",333,1,0.003003003003003003
+Oklahoma,Healthcare,766,2,0.0026109660574412533
+Oklahoma,"Agriculture, Horticulture, & the Outdoors",22,0,0
+Oklahoma,Clerical and Administrative,147,0,0
+Oklahoma,"Construction, Extraction, and Architecture",102,0,0
+Oklahoma,Customer and Client Support,137,0,0
+Oklahoma,Human Resources,83,0,0
+Oklahoma,"Maintenance, Repair, and Installation",204,0,0
+Oklahoma,Performing Arts,1,0,0
+Oklahoma,Personal Services,33,0,0
+Oklahoma,Science and Research,32,0,0
+Oklahoma,Social Analysis and Planning,6,0,0
+Oklahoma,Transportation,180,0,0
+Oklahoma,NA,2,0,0
+Oregon,Information Technology and Computer Science,542,79,0.14575645756457564
+Oregon,Engineering,168,5,0.02976190476190476
+Oregon,Marketing and Public Relations,108,3,0.027777777777777776
+Oregon,Science and Research,45,1,0.022222222222222223
+Oregon,Education and Training,226,4,0.017699115044247787
+Oregon,"Law, Compliance, and Public Safety",118,2,0.01694915254237288
+Oregon,Business Management and Operations,554,8,0.01444043321299639
+Oregon,"Design, Media, and Writing",72,1,0.013888888888888888
+Oregon,Unclassified Career Area,128,1,0.0078125
+Oregon,Healthcare,952,7,0.007352941176470588
+Oregon,Clerical and Administrative,288,2,0.006944444444444444
+Oregon,Human Resources,145,1,0.006896551724137931
+Oregon,Finance,342,2,0.005847953216374269
+Oregon,Manufacturing and Production,181,1,0.0055248618784530384
+Oregon,Community and Social Services,207,1,0.004830917874396135
+Oregon,Sales,622,3,0.00482315112540193
+Oregon,"Maintenance, Repair, and Installation",224,1,0.004464285714285714
+Oregon,"Agriculture, Horticulture, & the Outdoors",38,0,0
+Oregon,"Construction, Extraction, and Architecture",120,0,0
+Oregon,Customer and Client Support,162,0,0
+Oregon,"Hospitality, Food, and Tourism",407,0,0
+Oregon,Not Employed,3,0,0
+Oregon,Performing Arts,5,0,0
+Oregon,Personal Services,49,0,0
+Oregon,Social Analysis and Planning,15,0,0
+Oregon,Transportation,204,0,0
+Oregon,NA,4,0,0
+Pennsylvania,Information Technology and Computer Science,1206,152,0.12603648424543948
+Pennsylvania,Science and Research,187,9,0.0481283422459893
+Pennsylvania,"Design, Media, and Writing",147,7,0.047619047619047616
+Pennsylvania,Social Analysis and Planning,28,1,0.03571428571428571
+Pennsylvania,Engineering,400,13,0.0325
+Pennsylvania,Marketing and Public Relations,277,7,0.02527075812274368
+Pennsylvania,Business Management and Operations,1262,24,0.01901743264659271
+Pennsylvania,Unclassified Career Area,242,3,0.012396694214876033
+Pennsylvania,Clerical and Administrative,654,8,0.012232415902140673
+Pennsylvania,Education and Training,442,4,0.00904977375565611
+Pennsylvania,Human Resources,366,3,0.00819672131147541
+Pennsylvania,"Construction, Extraction, and Architecture",250,2,0.008
+Pennsylvania,"Law, Compliance, and Public Safety",306,2,0.006535947712418301
+Pennsylvania,"Maintenance, Repair, and Installation",487,3,0.006160164271047228
+Pennsylvania,Sales,1799,9,0.005002779321845469
+Pennsylvania,Community and Social Services,426,2,0.004694835680751174
+Pennsylvania,Finance,901,4,0.004439511653718091
+Pennsylvania,Customer and Client Support,457,2,0.00437636761487965
+Pennsylvania,Manufacturing and Production,576,2,0.003472222222222222
+Pennsylvania,Healthcare,2433,5,0.002055076037813399
+Pennsylvania,"Hospitality, Food, and Tourism",995,1,0.0010050251256281408
+Pennsylvania,"Agriculture, Horticulture, & the Outdoors",74,0,0
+Pennsylvania,Not Employed,5,0,0
+Pennsylvania,Performing Arts,15,0,0
+Pennsylvania,Personal Services,128,0,0
+Pennsylvania,Transportation,565,0,0
+Pennsylvania,NA,9,0,0
+Rhode Island,Information Technology and Computer Science,123,12,0.0975609756097561
+Rhode Island,Engineering,31,2,0.06451612903225806
+Rhode Island,Business Management and Operations,113,7,0.061946902654867256
+Rhode Island,Marketing and Public Relations,29,1,0.034482758620689655
+Rhode Island,Unclassified Career Area,33,1,0.030303030303030304
+Rhode Island,Education and Training,67,1,0.014925373134328358
+Rhode Island,Healthcare,253,3,0.011857707509881422
+Rhode Island,Sales,163,1,0.006134969325153374
+Rhode Island,"Agriculture, Horticulture, & the Outdoors",3,0,0
+Rhode Island,Clerical and Administrative,61,0,0
+Rhode Island,Community and Social Services,49,0,0
+Rhode Island,"Construction, Extraction, and Architecture",23,0,0
+Rhode Island,Customer and Client Support,46,0,0
+Rhode Island,"Design, Media, and Writing",14,0,0
+Rhode Island,Finance,97,0,0
+Rhode Island,"Hospitality, Food, and Tourism",109,0,0
+Rhode Island,Human Resources,32,0,0
+Rhode Island,"Law, Compliance, and Public Safety",24,0,0
+Rhode Island,"Maintenance, Repair, and Installation",35,0,0
+Rhode Island,Manufacturing and Production,48,0,0
+Rhode Island,Personal Services,16,0,0
+Rhode Island,Science and Research,15,0,0
+Rhode Island,Social Analysis and Planning,3,0,0
+Rhode Island,Transportation,51,0,0
+Rhode Island,NA,2,0,0
+South Carolina,Information Technology and Computer Science,297,15,0.050505050505050504
+South Carolina,Human Resources,91,2,0.02197802197802198
+South Carolina,Engineering,147,3,0.02040816326530612
+South Carolina,Marketing and Public Relations,56,1,0.017857142857142856
+South Carolina,Unclassified Career Area,89,1,0.011235955056179775
+South Carolina,"Maintenance, Repair, and Installation",235,2,0.00851063829787234
+South Carolina,Manufacturing and Production,157,1,0.006369426751592357
+South Carolina,Business Management and Operations,394,2,0.005076142131979695
+South Carolina,Healthcare,819,3,0.003663003663003663
+South Carolina,Sales,567,2,0.003527336860670194
+South Carolina,"Agriculture, Horticulture, & the Outdoors",24,0,0
+South Carolina,Clerical and Administrative,184,0,0
+South Carolina,Community and Social Services,80,0,0
+South Carolina,"Construction, Extraction, and Architecture",111,0,0
+South Carolina,Customer and Client Support,136,0,0
+South Carolina,"Design, Media, and Writing",26,0,0
+South Carolina,Education and Training,136,0,0
+South Carolina,Finance,253,0,0
+South Carolina,"Hospitality, Food, and Tourism",385,0,0
+South Carolina,"Law, Compliance, and Public Safety",112,0,0
+South Carolina,Not Employed,1,0,0
+South Carolina,Performing Arts,4,0,0
+South Carolina,Personal Services,45,0,0
+South Carolina,Science and Research,26,0,0
+South Carolina,Social Analysis and Planning,10,0,0
+South Carolina,Transportation,184,0,0
+South Carolina,NA,16,0,0
+South Dakota,Information Technology and Computer Science,68,8,0.11764705882352941
+South Dakota,Business Management and Operations,78,3,0.038461538461538464
+South Dakota,Engineering,36,1,0.027777777777777776
+South Dakota,Education and Training,38,1,0.02631578947368421
+South Dakota,Finance,76,2,0.02631578947368421
+South Dakota,Sales,144,2,0.013888888888888888
+South Dakota,Healthcare,252,1,0.003968253968253968
+South Dakota,"Agriculture, Horticulture, & the Outdoors",13,0,0
+South Dakota,Clerical and Administrative,67,0,0
+South Dakota,Community and Social Services,25,0,0
+South Dakota,"Construction, Extraction, and Architecture",34,0,0
+South Dakota,Customer and Client Support,43,0,0
+South Dakota,"Design, Media, and Writing",16,0,0
+South Dakota,"Hospitality, Food, and Tourism",98,0,0
+South Dakota,Human Resources,29,0,0
+South Dakota,"Law, Compliance, and Public Safety",11,0,0
+South Dakota,"Maintenance, Repair, and Installation",72,0,0
+South Dakota,Manufacturing and Production,54,0,0
+South Dakota,Marketing and Public Relations,9,0,0
+South Dakota,Not Employed,3,0,0
+South Dakota,Performing Arts,2,0,0
+South Dakota,Personal Services,7,0,0
+South Dakota,Science and Research,9,0,0
+South Dakota,Social Analysis and Planning,3,0,0
+South Dakota,Transportation,74,0,0
+South Dakota,Unclassified Career Area,28,0,0
+South Dakota,NA,2,0,0
+Tennessee,Social Analysis and Planning,6,2,0.3333333333333333
+Tennessee,Information Technology and Computer Science,437,46,0.10526315789473684
+Tennessee,Marketing and Public Relations,115,6,0.05217391304347826
+Tennessee,Science and Research,61,3,0.04918032786885246
+Tennessee,Human Resources,191,3,0.015706806282722512
+Tennessee,Engineering,151,2,0.013245033112582781
+Tennessee,Community and Social Services,163,2,0.012269938650306749
+Tennessee,Manufacturing and Production,251,2,0.00796812749003984
+Tennessee,Business Management and Operations,674,5,0.00741839762611276
+Tennessee,Finance,411,3,0.0072992700729927005
+Tennessee,Unclassified Career Area,138,1,0.007246376811594203
+Tennessee,Healthcare,1235,5,0.004048582995951417
+Tennessee,"Maintenance, Repair, and Installation",307,1,0.003257328990228013
+Tennessee,Sales,940,3,0.0031914893617021275
+Tennessee,"Hospitality, Food, and Tourism",635,1,0.0015748031496062992
+Tennessee,"Agriculture, Horticulture, & the Outdoors",40,0,0
+Tennessee,Clerical and Administrative,307,0,0
+Tennessee,"Construction, Extraction, and Architecture",168,0,0
+Tennessee,Customer and Client Support,221,0,0
+Tennessee,"Design, Media, and Writing",73,0,0
+Tennessee,Education and Training,192,0,0
+Tennessee,"Law, Compliance, and Public Safety",141,0,0
+Tennessee,Not Employed,3,0,0
+Tennessee,Performing Arts,4,0,0
+Tennessee,Personal Services,62,0,0
+Tennessee,Transportation,347,0,0
+Tennessee,NA,9,0,0
+Texas,Information Technology and Computer Science,3252,434,0.13345633456334563
+Texas,Science and Research,286,16,0.055944055944055944
+Texas,Performing Arts,19,1,0.05263157894736842
+Texas,Marketing and Public Relations,552,19,0.034420289855072464
+Texas,Engineering,844,28,0.03317535545023697
+Texas,Social Analysis and Planning,63,2,0.031746031746031744
+Texas,"Design, Media, and Writing",316,7,0.022151898734177215
+Texas,Business Management and Operations,2808,62,0.02207977207977208
+Texas,Unclassified Career Area,607,13,0.0214168039538715
+Texas,Human Resources,778,15,0.019280205655526992
+Texas,"Law, Compliance, and Public Safety",675,9,0.013333333333333334
+Texas,Finance,2207,26,0.011780697779791573
+Texas,Customer and Client Support,1026,11,0.010721247563352826
+Texas,Education and Training,1050,9,0.008571428571428572
+Texas,Sales,3933,27,0.006864988558352402
+Texas,Manufacturing and Production,932,6,0.006437768240343348
+Texas,Community and Social Services,704,4,0.005681818181818182
+Texas,"Construction, Extraction, and Architecture",747,4,0.00535475234270415
+Texas,Clerical and Administrative,1395,7,0.005017921146953405
+Texas,"Maintenance, Repair, and Installation",1292,6,0.0046439628482972135
+Texas,Healthcare,4967,12,0.0024159452385745924
+Texas,Transportation,1063,1,9.407337723424271e-4
+Texas,"Agriculture, Horticulture, & the Outdoors",144,0,0
+Texas,"Hospitality, Food, and Tourism",2426,0,0
+Texas,Not Employed,8,0,0
+Texas,Personal Services,290,0,0
+Texas,NA,28,0,0
+Utah,Information Technology and Computer Science,305,40,0.13114754098360656
+Utah,Marketing and Public Relations,73,2,0.0273972602739726
+Utah,Engineering,118,3,0.025423728813559324
+Utah,Education and Training,149,3,0.020134228187919462
+Utah,Manufacturing and Production,184,3,0.016304347826086956
+Utah,Unclassified Career Area,77,1,0.012987012987012988
+Utah,Clerical and Administrative,173,2,0.011560693641618497
+Utah,Human Resources,97,1,0.010309278350515464
+Utah,Finance,214,2,0.009345794392523364
+Utah,Business Management and Operations,334,3,0.008982035928143712
+Utah,"Maintenance, Repair, and Installation",151,1,0.006622516556291391
+Utah,Sales,473,2,0.004228329809725159
+Utah,Healthcare,493,2,0.004056795131845842
+Utah,"Agriculture, Horticulture, & the Outdoors",32,0,0
+Utah,Community and Social Services,103,0,0
+Utah,"Construction, Extraction, and Architecture",102,0,0
+Utah,Customer and Client Support,159,0,0
+Utah,"Design, Media, and Writing",45,0,0
+Utah,"Hospitality, Food, and Tourism",296,0,0
+Utah,"Law, Compliance, and Public Safety",70,0,0
+Utah,Not Employed,4,0,0
+Utah,Performing Arts,3,0,0
+Utah,Personal Services,33,0,0
+Utah,Science and Research,40,0,0
+Utah,Social Analysis and Planning,8,0,0
+Utah,Transportation,143,0,0
+Utah,NA,5,0,0
+Vermont,Social Analysis and Planning,2,1,0.5
+Vermont,Information Technology and Computer Science,52,6,0.11538461538461539
+Vermont,Science and Research,13,1,0.07692307692307693
+Vermont,Engineering,16,1,0.0625
+Vermont,Manufacturing and Production,36,1,0.027777777777777776
+Vermont,Business Management and Operations,60,1,0.016666666666666666
+Vermont,Education and Training,73,1,0.0136986301369863
+Vermont,Healthcare,135,1,0.007407407407407408
+Vermont,"Agriculture, Horticulture, & the Outdoors",3,0,0
+Vermont,Clerical and Administrative,37,0,0
+Vermont,Community and Social Services,21,0,0
+Vermont,"Construction, Extraction, and Architecture",16,0,0
+Vermont,Customer and Client Support,20,0,0
+Vermont,"Design, Media, and Writing",7,0,0
+Vermont,Finance,36,0,0
+Vermont,"Hospitality, Food, and Tourism",56,0,0
+Vermont,Human Resources,20,0,0
+Vermont,"Law, Compliance, and Public Safety",19,0,0
+Vermont,"Maintenance, Repair, and Installation",31,0,0
+Vermont,Marketing and Public Relations,14,0,0
+Vermont,Personal Services,4,0,0
+Vermont,Sales,79,0,0
+Vermont,Transportation,29,0,0
+Vermont,Unclassified Career Area,23,0,0
+Virginia,Information Technology and Computer Science,2099,305,0.14530728918532634
+Virginia,Social Analysis and Planning,103,12,0.11650485436893204
+Virginia,Science and Research,88,6,0.06818181818181818
+Virginia,Unclassified Career Area,285,14,0.04912280701754386
+Virginia,Marketing and Public Relations,195,8,0.041025641025641026
+Virginia,"Design, Media, and Writing",171,6,0.03508771929824561
+Virginia,Engineering,346,11,0.031791907514450865
+Virginia,Business Management and Operations,1064,29,0.02725563909774436
+Virginia,Human Resources,307,7,0.02280130293159609
+Virginia,Finance,671,15,0.022354694485842028
+Virginia,"Law, Compliance, and Public Safety",301,4,0.013289036544850499
+Virginia,Community and Social Services,270,3,0.011111111111111112
+Virginia,Clerical and Administrative,453,5,0.011037527593818985
+Virginia,"Maintenance, Repair, and Installation",403,4,0.009925558312655087
+Virginia,Manufacturing and Production,268,2,0.007462686567164179
+Virginia,Sales,1183,7,0.005917159763313609
+Virginia,"Hospitality, Food, and Tourism",813,4,0.004920049200492005
+Virginia,Customer and Client Support,303,1,0.0033003300330033004
+Virginia,Education and Training,348,1,0.0028735632183908046
+Virginia,Healthcare,1727,3,0.0017371163867979154
+Virginia,"Agriculture, Horticulture, & the Outdoors",50,0,0
+Virginia,"Construction, Extraction, and Architecture",237,0,0
+Virginia,Not Employed,4,0,0
+Virginia,Performing Arts,7,0,0
+Virginia,Personal Services,94,0,0
+Virginia,Transportation,300,0,0
+Virginia,NA,3,0,0
+Washington,Information Technology and Computer Science,1193,219,0.18357082984073764
+Washington,Science and Research,114,14,0.12280701754385964
+Washington,Marketing and Public Relations,258,21,0.08139534883720931
+Washington,Unclassified Career Area,226,10,0.04424778761061947
+Washington,Engineering,313,13,0.04153354632587859
+Washington,"Design, Media, and Writing",112,3,0.026785714285714284
+Washington,Business Management and Operations,985,22,0.02233502538071066
+Washington,Finance,605,12,0.019834710743801654
+Washington,Human Resources,243,4,0.01646090534979424
+Washington,Manufacturing and Production,305,4,0.013114754098360656
+Washington,Education and Training,324,3,0.009259259259259259
+Washington,Customer and Client Support,233,2,0.008583690987124463
+Washington,Clerical and Administrative,417,3,0.007194244604316547
+Washington,Sales,1114,5,0.004488330341113106
+Washington,"Hospitality, Food, and Tourism",674,3,0.004451038575667656
+Washington,"Maintenance, Repair, and Installation",356,1,0.0028089887640449437
+Washington,Healthcare,1635,2,0.0012232415902140672
+Washington,"Agriculture, Horticulture, & the Outdoors",49,0,0
+Washington,Community and Social Services,295,0,0
+Washington,"Construction, Extraction, and Architecture",207,0,0
+Washington,"Law, Compliance, and Public Safety",195,0,0
+Washington,Not Employed,3,0,0
+Washington,Performing Arts,2,0,0
+Washington,Personal Services,95,0,0
+Washington,Social Analysis and Planning,12,0,0
+Washington,Transportation,326,0,0
+Washington,NA,6,0,0
+"Washington, D.c. (District Of Columbia)",Information Technology and Computer Science,662,109,0.1646525679758308
+"Washington, D.c. (District Of Columbia)",Science and Research,54,6,0.1111111111111111
+"Washington, D.c. (District Of Columbia)",Unclassified Career Area,86,8,0.09302325581395349
+"Washington, D.c. (District Of Columbia)",Social Analysis and Planning,48,4,0.08333333333333333
+"Washington, D.c. (District Of Columbia)",Engineering,60,3,0.05
+"Washington, D.c. (District Of Columbia)",Customer and Client Support,47,2,0.0425531914893617
+"Washington, D.c. (District Of Columbia)",Business Management and Operations,394,11,0.027918781725888325
+"Washington, D.c. (District Of Columbia)",Clerical and Administrative,153,4,0.026143790849673203
+"Washington, D.c. (District Of Columbia)",Finance,197,5,0.025380710659898477
+"Washington, D.c. (District Of Columbia)","Maintenance, Repair, and Installation",41,1,0.024390243902439025
+"Washington, D.c. (District Of Columbia)","Design, Media, and Writing",85,2,0.023529411764705882
+"Washington, D.c. (District Of Columbia)",Marketing and Public Relations,131,3,0.022900763358778626
+"Washington, D.c. (District Of Columbia)",Education and Training,105,2,0.01904761904761905
+"Washington, D.c. (District Of Columbia)",Sales,193,3,0.015544041450777202
+"Washington, D.c. (District Of Columbia)",Healthcare,264,3,0.011363636363636364
+"Washington, D.c. (District Of Columbia)",Human Resources,101,1,0.009900990099009901
+"Washington, D.c. (District Of Columbia)","Law, Compliance, and Public Safety",165,1,0.006060606060606061
+"Washington, D.c. (District Of Columbia)","Agriculture, Horticulture, & the Outdoors",2,0,0
+"Washington, D.c. (District Of Columbia)",Community and Social Services,58,0,0
+"Washington, D.c. (District Of Columbia)","Construction, Extraction, and Architecture",34,0,0
+"Washington, D.c. (District Of Columbia)","Hospitality, Food, and Tourism",173,0,0
+"Washington, D.c. (District Of Columbia)",Manufacturing and Production,39,0,0
+"Washington, D.c. (District Of Columbia)",Not Employed,5,0,0
+"Washington, D.c. (District Of Columbia)",Performing Arts,1,0,0
+"Washington, D.c. (District Of Columbia)",Personal Services,14,0,0
+"Washington, D.c. (District Of Columbia)",Transportation,27,0,0
+"Washington, D.c. (District Of Columbia)",NA,2,0,0
+West Virginia,Social Analysis and Planning,3,1,0.3333333333333333
+West Virginia,Information Technology and Computer Science,66,7,0.10606060606060606
+West Virginia,Unclassified Career Area,25,2,0.08
+West Virginia,Marketing and Public Relations,14,1,0.07142857142857142
+West Virginia,Science and Research,19,1,0.05263157894736842
+West Virginia,Engineering,25,1,0.04
+West Virginia,"Agriculture, Horticulture, & the Outdoors",14,0,0
+West Virginia,Business Management and Operations,80,0,0
+West Virginia,Clerical and Administrative,47,0,0
+West Virginia,Community and Social Services,42,0,0
+West Virginia,"Construction, Extraction, and Architecture",26,0,0
+West Virginia,Customer and Client Support,37,0,0
+West Virginia,"Design, Media, and Writing",5,0,0
+West Virginia,Education and Training,55,0,0
+West Virginia,Finance,43,0,0
+West Virginia,Healthcare,288,0,0
+West Virginia,"Hospitality, Food, and Tourism",88,0,0
+West Virginia,Human Resources,29,0,0
+West Virginia,"Law, Compliance, and Public Safety",36,0,0
+West Virginia,"Maintenance, Repair, and Installation",49,0,0
+West Virginia,Manufacturing and Production,32,0,0
+West Virginia,Performing Arts,2,0,0
+West Virginia,Personal Services,12,0,0
+West Virginia,Sales,169,0,0
+West Virginia,Transportation,78,0,0
+West Virginia,NA,1,0,0
+Wisconsin,Information Technology and Computer Science,514,48,0.0933852140077821
+Wisconsin,Social Analysis and Planning,12,1,0.08333333333333333
+Wisconsin,Marketing and Public Relations,133,5,0.03759398496240601
+Wisconsin,Science and Research,56,1,0.017857142857142856
+Wisconsin,Engineering,243,4,0.01646090534979424
+Wisconsin,Business Management and Operations,676,10,0.014792899408284023
+Wisconsin,Human Resources,206,3,0.014563106796116505
+Wisconsin,"Design, Media, and Writing",71,1,0.014084507042253521
+Wisconsin,Education and Training,217,3,0.013824884792626729
+Wisconsin,Finance,422,5,0.011848341232227487
+Wisconsin,Customer and Client Support,237,2,0.008438818565400843
+Wisconsin,"Law, Compliance, and Public Safety",132,1,0.007575757575757576
+Wisconsin,"Maintenance, Repair, and Installation",328,2,0.006097560975609756
+Wisconsin,"Construction, Extraction, and Architecture",181,1,0.0055248618784530384
+Wisconsin,Healthcare,1229,6,0.004882017900732303
+Wisconsin,Sales,831,3,0.0036101083032490976
+Wisconsin,Transportation,369,1,0.0027100271002710027
+Wisconsin,Manufacturing and Production,556,1,0.0017985611510791368
+Wisconsin,"Agriculture, Horticulture, & the Outdoors",40,0,0
+Wisconsin,Clerical and Administrative,298,0,0
+Wisconsin,Community and Social Services,191,0,0
+Wisconsin,"Hospitality, Food, and Tourism",634,0,0
+Wisconsin,Performing Arts,2,0,0
+Wisconsin,Personal Services,69,0,0
+Wisconsin,Unclassified Career Area,133,0,0
+Wisconsin,NA,7,0,0
+Wyoming,Customer and Client Support,13,1,0.07692307692307693
+Wyoming,Information Technology and Computer Science,28,2,0.07142857142857142
+Wyoming,"Agriculture, Horticulture, & the Outdoors",2,0,0
+Wyoming,Business Management and Operations,42,0,0
+Wyoming,Clerical and Administrative,15,0,0
+Wyoming,Community and Social Services,11,0,0
+Wyoming,"Construction, Extraction, and Architecture",32,0,0
+Wyoming,"Design, Media, and Writing",9,0,0
+Wyoming,Education and Training,15,0,0
+Wyoming,Engineering,16,0,0
+Wyoming,Finance,29,0,0
+Wyoming,Healthcare,127,0,0
+Wyoming,"Hospitality, Food, and Tourism",60,0,0
+Wyoming,Human Resources,16,0,0
+Wyoming,"Law, Compliance, and Public Safety",14,0,0
+Wyoming,"Maintenance, Repair, and Installation",31,0,0
+Wyoming,Manufacturing and Production,16,0,0
+Wyoming,Marketing and Public Relations,5,0,0
+Wyoming,Personal Services,5,0,0
+Wyoming,Sales,67,0,0
+Wyoming,Science and Research,4,0,0
+Wyoming,Social Analysis and Planning,1,0,0
+Wyoming,Transportation,32,0,0
+Wyoming,Unclassified Career Area,13,0,0
